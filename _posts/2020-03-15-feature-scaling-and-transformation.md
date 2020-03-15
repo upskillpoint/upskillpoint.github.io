@@ -7,7 +7,7 @@ excerpt: "A step by step guide on how to scale or transform features in machine 
 toc: true
 header:
   teaser: /assets/images/2020/03/15/feature_scaling.png
-  image: /assets/images/2020/03/13/feature_scaling.png
+  image: /assets/images/2020/03/15/feature_scaling.png
   show_overlay_excerpt: False
 mathjax: true  
 ---
@@ -975,7 +975,7 @@ max_normalized_diabetes.head()
 
 if you look at the above df you can see one feature in every record is transformed into 1 and other features are represented in terms of this max.
 
-### Binarizer:
+### Binarizer
 
 Now sometimes it may be required that we would want to discretize our numerical features there we can use binarizer.
 In binarizer we provide a threshold value for each feature and it will convert all values which is less than the threshold to zero and all values which is greater than the threshold to 1. 
