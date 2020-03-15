@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.upskillpoint.com/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/about/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/year-archive/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/categories/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/machine%20learning/2020/03/15/feature-scaling-and-transformation/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/machine%20learning/2020/03/13/feature-selection-handling-multicollinearity/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/machine%20learning/2020/03/11/feature-selection-using-filter-method/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/machine%20learning/2020/03/11/feature-selection-using-wrapper-method/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/machine%20learning/2020/03/11/feature-selection-using-embedded-method/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/page2/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/python%20faq/2020/03/04/python-faqs/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/python%20static%20testing/2020/03/01/step-by-step-guide-pylint-pycharm-integration/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/statistics/2020/02/12/need-of-hypothesis-testing/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/jupyter%20tutorial/python/2020/02/11/python-brush-up/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/machine%20learning/2019/01/01/clean-using-SKImputer/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.upskillpoint.com/tags/</loc>
+  <lastmod>2020-03-15T15:39:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
