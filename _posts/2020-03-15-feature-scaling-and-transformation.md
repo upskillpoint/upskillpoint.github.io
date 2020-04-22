@@ -1328,3 +1328,6 @@ buildmodel(binarized_features,target_df,test_frac=.2)
 
     Accuracy of the model is 0.6753246753246753
     
+You can get the notebook used in this tutorial [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/FeatureScalingAndTransformation.ipynb) and dataset used [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/datasets/diabetes_cleaned.csv)
+
+Thanks for reading!

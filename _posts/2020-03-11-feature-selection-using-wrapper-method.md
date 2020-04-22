@@ -709,6 +709,8 @@ buildmodel(backward_elimination_features_df,Y,test_frac=.2,model_name='Backward 
 ```
 
     Accuracy of the Backward Elimination based model is  0.8441558441558441
+
+You can get the notebook used in this tutorial [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/FeatureSelectionUsingWrapperMethod.ipynb) and dataset used [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/datasets/datasets/diabetes.csv)
     
 Thanks for reading!!
     

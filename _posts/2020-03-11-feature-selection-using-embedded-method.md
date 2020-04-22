@@ -560,5 +560,7 @@ buildmodel(decision_tree_feature_df,Y,test_frac=.2, model_name='Decision Tree')
 ```
 
     Accuracy of the Decision Tree model is 0.5284130942943683
+
+You can get the notebook used in this tutorial [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/FeatureSelectionUsingEmbeddedMethod.ipynb) and dataset used [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/datasets/datasets/cleaned_cars.csv)
     
 Thanks for reading!!
