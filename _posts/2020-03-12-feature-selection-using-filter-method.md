@@ -1628,6 +1628,6 @@ buildmodel(X=Anova_selected_feature_df,Y=Y,test_frac=.2,model_name="Anova F-test
 
 We can definitely see that accuracy has been improved by taking these feature selection approaches. 
 
-You can get the notebook used in this tutorial [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/FeatureSelectionUsingMissingValueRatio_VarianceThreshold.ipynb) and dataset used [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/datasets/datasets/diabetes.csv)
+You can get the notebook used in this tutorial [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/FeatureSelectionUsingMissingValueRatio_VarianceThreshold.ipynb) and dataset used [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/datasets/diabetes.csv)
 
 Thanks for reading!

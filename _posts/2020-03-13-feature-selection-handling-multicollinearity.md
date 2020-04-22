@@ -992,6 +992,6 @@ print("Adjusted R2 score :",adjusted_r2(r2_score(y_test,y_pred),y_test,x_test))
 
     Adjusted R2 score : 0.7037999705874243
     
-You can get the notebook used in this tutorial [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/HandlingMulticollinearity.ipynb) and dataset used [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/datasets/datasets/cleaned_cars.csv)
+You can get the notebook used in this tutorial [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/HandlingMulticollinearity.ipynb) and dataset used [here](https://github.com/arupbhunia/Data-Pre-processing/blob/master/datasets/cleaned_cars.csv)
 
 Thanks for reading!
